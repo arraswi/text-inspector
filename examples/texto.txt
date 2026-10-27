@@ -1,0 +1,4 @@
+Olá, mundo!
+Este projeto transforma texto em informações úteis.
+
+Simples de usar, simples de entender.
